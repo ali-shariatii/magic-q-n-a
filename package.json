@@ -1,0 +1,16 @@
+{
+  "name": "magic-q-and-a",
+  "version": "1.0.0",
+  "description": "A simple project for demonstrating the use of the following: \n math() method\n an object and its properties\n DOM\n events and DOM event listener method\n",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
